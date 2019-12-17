@@ -1,5 +1,5 @@
 Advanced Java Topics (December 12, 2019)
- -Created by: Jazmine Anderson and Valerie DeLeon
+ - Created by: Jazmine Anderson and Valerie DeLeon
  
 # TicTacToeGame
 
